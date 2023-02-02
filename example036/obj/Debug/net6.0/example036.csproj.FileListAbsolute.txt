@@ -1,0 +1,15 @@
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\obj\Debug\net6.0\example036.csproj.AssemblyReference.cache
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\obj\Debug\net6.0\example036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\obj\Debug\net6.0\example036.AssemblyInfoInputs.cache
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\obj\Debug\net6.0\example036.AssemblyInfo.cs
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\obj\Debug\net6.0\example036.csproj.CoreCompileInputs.cache
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\bin\Debug\net6.0\example036.exe
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\bin\Debug\net6.0\example036.deps.json
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\bin\Debug\net6.0\example036.runtimeconfig.json
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\bin\Debug\net6.0\example036.dll
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\bin\Debug\net6.0\example036.pdb
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\obj\Debug\net6.0\example036.dll
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\obj\Debug\net6.0\refint\example036.dll
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\obj\Debug\net6.0\example036.pdb
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\obj\Debug\net6.0\example036.genruntimeconfig.cache
+C:\Users\JaneM\OneDrive\Документы\GB\fifthSeminarHomework\example036\obj\Debug\net6.0\ref\example036.dll
